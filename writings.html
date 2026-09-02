@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Original writings by students of DMI St Joseph Global School Media Club." />
+  <title>Student Writings | Media Club</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" type="image/png" href="red.png">
+</head>
+<body>
+  <div class="site-bg"></div>
+  <header class="header">
+    <a class="brand" href="index.html">
+      <span class="brand-mark"><img src="red.png" alt="Media Club logo"></span>
+      <span><strong>MEDIA CLUB</strong><small>DMI ST JOSEPH GLOBAL SCHOOL</small></span>
+    </a>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a class="active" href="writings.html">Student Writings</a>
+      <a href="index.html#about">About</a>
+      <a href="index.html#submit">Submit</a>
+    </nav>
+    <a class="nav-cta" href="index.html#submit">Submit Work <span>↗</span></a>
+    <button class="menu-btn" aria-label="Open menu">☰</button>
+  </header>
+
+  <main>
+    <section class="page-hero container reveal">
+      <div class="eyebrow"><span></span> THE STUDENT JOURNAL</div>
+      <h1>Original <em>Writings.</em></h1>
+      <p>A growing collection of poems, stories, articles and reflections written by students.</p>
+    </section>
+
+    <section class="container writings-controls">
+      <div class="filter-tabs" id="filters">
+        <button class="filter active" data-filter="All">All</button>
+        <button class="filter" data-filter="Poetry">Poetry</button>
+        <button class="filter" data-filter="Article">Articles</button>
+        <button class="filter" data-filter="Story">Stories</button>
+        <button class="filter" data-filter="Opinion">Opinions</button>
+      </div>
+      <label class="search-box">
+        <span>⌕</span>
+        <input id="searchInput" type="search" placeholder="Search writings..." />
+      </label>
+    </section>
+
+    <section class="container">
+      <div id="allWritingsGrid" class="writing-grid full-grid"></div>
+      <div id="emptyState" class="empty-state hidden">
+        <strong>No writings found.</strong>
+        <span>Try another keyword or category.</span>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div><strong>MEDIA CLUB</strong><p>DMI ST JOSEPH GLOBAL SCHOOL</p></div>
+      <p>© 2026 Media Club | All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/articles.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/writings.js"></script>
+</body>
+</html>
