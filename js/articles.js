@@ -8,7 +8,7 @@ const articles = [
     image: "images/life-we-once-imagined.png",
     author: "Imnasenla",
     grade: "Class XII Science",
-    date: "August 2026",
+    date: "31 August 2026",
     excerpt: "“The Life We Once Imagined” is a reflective article about growing up, changing dreams, family expectations, and the uncertainty of not knowing exactly who we will become.",
     content: [
       "When I was a child, I thought I already knew what my future would look like. I had dreams, plans, and a clear picture of the person I thought I would become. Back then, the future seemed simple. I believed that if I worked hard enough and followed the path I had imagined, life would eventually fall into place.",
@@ -33,7 +33,7 @@ const articles = [
     image: "images/thejanguno.jpg",
     author: "Thejanguno Peseyie",
     grade: "Class XII Arts",
-    date: "August 2026",
+    date: "6 September 2026",
     excerpt: "“The Life We Once Imagined” is a reflective article about growing up, changing dreams, family expectations, and the uncertainty of not knowing exactly who we will become.",
     content: [
       "When I was a child, I thought I already knew what my future would look like. I had dreams, plans, and a clear picture of the person I thought I would become. Back then, the future seemed simple. I believed that if I worked hard enough and followed the path I had imagined, life would eventually fall into place.",
