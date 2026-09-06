@@ -30,7 +30,7 @@ const articles = [
     title: "Beyond Religion: The Courage to Question While Believing",
     category: "Article",
     image: "",
-    image: "",
+    image: "images/thejanguno.jpg",
     author: "Thejanguno Peseyie",
     grade: "Class XII Arts",
     date: "August 2026",
