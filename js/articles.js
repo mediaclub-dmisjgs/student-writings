@@ -53,7 +53,7 @@ const articles = [
     title: "Kakapo: The Flightless Parrot on the Brink of Extinction",
     category: "Article",
     image: "",
-    image: "images/thejanguno.jpg",
+    image: "images/kakapo.webp",
     author: "Timshimnim Siro",
     grade: "Class IX",
     date: "7 September 2026",
