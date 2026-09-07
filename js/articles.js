@@ -46,6 +46,26 @@ const articles = [
       "In the end, questioning is not rebellion for its own sake. It is an act of intellectual and moral responsibility. A compassionate person should strive to do good because goodness matters, not merely because paradise is promised or punishment is feared. Faith becomes more meaningful when it is accompanied by reflection, empathy, and the humility to admit that no human being possesses complete understanding of the divine.",
       "Perhaps the strongest belief is not the one that silences questions, but the one that becomes deeper because of them."
     ]
+  },
+
+  {
+    id: "kakapo-flightless-parrot-extinction",
+    title: "Kakapo: The Flightless Parrot on the Brink of Extinction",
+    category: "Article",
+    image: "",
+    image: "images/thejanguno.jpg",
+    author: "Timshimnim Siro",
+    grade: "Class IX",
+    date: "7 September 2026",
+    excerpt: "The kakapo is a remarkable flightless parrot native to New Zealand. Once widespread, it now faces the threat of extinction due to introduced predators and habitat loss. This article explores the kakapo’s unique characteristics, survival challenges, and the conservation efforts working to protect this extraordinary bird.",
+    content: [
+     "The kakapo or scientifically known as strigops harbroptilus, is a species of large ground-dwelling parrots. The kakapo adult males weight around 1.5 – 3 kg, and the equivalent figure for the female is 0.950 – 1.6 kg.",
+      "They have a unique combination and traits: yellow-greenish feathers,large owl-like forward facing eyes, large grey beak and a short tail. The kakapo is the world's only flightless parrot and the world's heaviest parrot. In addition to all this,it is also one of the world's longest living birds, reportedly with the lifespan of around 90-100 years!",
+      "Being a flightless bird, the kakapo relies heavily on its survival instinct on the ground. It uses it strong legs to climb trees and it green coloured feathers to hide from predators. As nocturnal foragers, the kakapo uses its sensitive, whiskers–like facial feathers to navigate while searching for fruits and berries in the darkness. While all this has helped them since ancient times, they have now become vulnerable to land mammals that hunt by scent.",
+      "Human destruction is the core reason the kakapo is being pushed to the brink of extinction. For millions of years, the kakapo lived in a no–land mammals based environment in New Zealand. All that changed when settlers from Europe and Māori invaded and introduced new ground mammals and predators, and the kakapo soon became an easy prey. These predators hunt entirely by scent– a huge disadvantage or a fatal flaw for the kakapo as the kakapo produces a sweet-musty scent.",
+      "This caused the population of the kakapo bird to plummet to just 51 in the 1995. While intensive conservation has made the numbers rise to 225–300, it is still an endangered species.",
+      "To conclude, New Zealand's Department of Conservation, runs one of the most high-tech, wildlife rescue missions in the world! Through this and with the help of the indigenous Ngāi tribe of New Zealand, have miraculously manage to rebuild the population, but it is still an endangered species."
+    ]
   }
 ];
 
