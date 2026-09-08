@@ -9,7 +9,7 @@ const articles = [
     author: "Neilhousanuo",
     grade: "Grade XII Arts",
     date: "8 September 2026",
-    excerpt: "We often define family by blood and a shared home, but family is far more complicated than that picture. It is where we first learn love, trust, fear, and forgiveness. Growing up is realizing that our family can influence us without completely defining us - and that family is not merely where we come from, but part of the story we inherit, question, and ultimately choose what to do with",
+    excerpt: "Blood may connect people, but love, trust, and acceptance are what make a place feel like home. Family is not about perfection, but connection.",
     content: [
      "We often define family by blood, surnames, traditions, and the walls of a shared home. We are taught that family is our first home, our first school, and the people who will always stand beside us. But family is far more complicated than the simple picture we are given. It is where we first learn love, trust, fear, forgiveness, responsibility and sometimes even how to hide our pain.",
       "Before we understand the world, our families become our first version of it. The words spoken to us as children can remain in our minds long after we have forgotten the moment they were said. A parent's encouragement can become confidence, while criticism, comparison, silence or impossible expectations can follow us into adulthood. In ways we rarely notice, our families shape the way we see ourselves and the way we learn to love others.",
