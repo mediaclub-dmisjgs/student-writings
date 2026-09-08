@@ -6,7 +6,7 @@ const articles = [
     category: "Opinion",
     image: "",
     image: "images/morethanblood.jpeg",
-    author: "Neilhousanuo",
+    author: "Neilhousanuo Metha",
     grade: "Grade XII Arts",
     date: "8 September 2026",
     excerpt: "Blood may connect people, but love, trust, and acceptance are what make a place feel like home. Family is not about perfection, but connection.",
