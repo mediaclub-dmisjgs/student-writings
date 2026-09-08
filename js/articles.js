@@ -5,7 +5,7 @@ const articles = [
     title: "More Than Blood",
     category: "Article",
     image: "",
-    image: "images/kakapo.webp",
+    image: "images/morethanblood.jpeg",
     author: "Neilhousanuo",
     grade: "Grade XII Arts",
     date: "8 September 2026",
