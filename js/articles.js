@@ -3,7 +3,7 @@ const articles = [
   {
     id: "more-than-blood",
     title: "More Than Blood",
-    category: "Article",
+    category: "Opinion",
     image: "",
     image: "images/morethanblood.jpeg",
     author: "Neilhousanuo",
