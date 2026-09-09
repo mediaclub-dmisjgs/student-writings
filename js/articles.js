@@ -1,6 +1,25 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+  id: "the-little-girl-who-chased-her-dream",
+  title: "The Little Girl Who Always Chased Her Dream To Be a Singer or a Dancer",
+  category: "Story",
+  image: "images/kind-sisters.png",
+  author: "Katili Zhimomi",
+  grade: "Grade 5",
+  date: "9 September 2026",
+  excerpt: "Lola’s love for music and her mother’s support help her achieve her dream of becoming a singer.",
+  content: [
+  "Once upon a time, there was a little girl named Lola. She was a kind-hearted girl who loved dancing and singing. They were her hobbies. Whenever she was bored, she would either dance or sing.",
+  " ",
+  "She had a beautiful mother who always stayed by her side whenever she was scared. Her mother taught her how to dance and sing. Lola was always happy and thankful to have such a wonderful mother.",
+  " ",
+  "Her dream was either to become a dancer or a singer. Her mother believed that her daughter would achieve her dream and succeed in life.",
+  " ",
+  "After many years of practicing dancing and singing, Lola achieved her dream. She was happy to tell her mother that she had become a famous singer in the capital city."
+]
+},
+  {
   id: "the-kind-sisters",
   title: "The Kind Sisters",
   category: "Story",
