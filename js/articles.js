@@ -1,44 +1,6 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
-  {
-    id: "built-by-her-breath",
-    title: "Built By Her Breath",
-    category: "Poetry",
-    image: "",
-    image: "images/built-by-her-breath.jpg",
-    author: "Thejongolu Tetseo",
-    grade: "Grade 12 Commerce",
-    date: "9 September 2026",
-    excerpt: "A heartfelt tribute to a mother whose love, sacrifices, prayers, and guidance shaped her child’s life, expressing deep gratitude and love for everything she has done.",
-    content: [
-"I am her reflection",
-"She means alot to me",
-"My attitudes were built by her"
-"She holds all my secrets,",
-"My pain and My sorrows.",
-"She motivates me when I fail.",
-"She molded me, with all her breath.",
-"She shape me in a way,",
-"Where I could stand on my feet.",
-"She carried all my burden and sorrows",
-"To see me happy,",
-"Without agony on my face.",
-"She kneel before God daily,",
-"For my health and strength",
-"For my wisdom and knowledge,",
-"And for my sins to be forgiven",
-"She rolled her tears,",
-"For me, and took all the burden and sin",
-"She kneel and ask for forgiveness,",
-"As if it was her, who did it.",
-"And I'm thankful to God",
-"For letting me in,",
-"In a place where love is being shown secretly.",
-"Though I couldn't thank her enough",
-"I thank God. And Pray for her.."
-    ]
-  }
-  ,
+
   {
     
     id: "pages-that-know",
