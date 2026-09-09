@@ -4,7 +4,7 @@ const articles = [
   id: "the-kind-sisters",
   title: "The Kind Sisters",
   category: "Story",
-  image: "images/built-by-her-breath.jpg",
+  image: "images/kind-sisters.png",
   author: "Ngvusinle",
   grade: "Grade 5",
   date: "9 September 2026",
