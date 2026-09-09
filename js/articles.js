@@ -4,7 +4,7 @@ const articles = [
   id: "the-little-girl-who-chased-her-dream",
   title: "The Little Girl Who Always Chased Her Dream To Be a Singer or a Dancer",
   category: "Story",
-  image: "images/kind-sisters.png",
+  image: "images/t-l-g.png",
   author: "Katili Zhimomi",
   grade: "Grade 5",
   date: "9 September 2026",
