@@ -10,7 +10,7 @@ const articles = [
     grade: "Grade XII Commerce",
     date: "9 September 2026",
     excerpt: "A heartfelt tribute to a mother whose love, sacrifices, prayers, and guidance shaped her child’s life, expressing deep gratitude and love for everything she has done.",
-content: [
+    content: [
   "I am her reflection",
   "She means alot to me",
   "My attitudes were built by her",
