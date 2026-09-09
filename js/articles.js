@@ -10,17 +10,35 @@ const articles = [
     grade: "Grade XII Commerce",
     date: "9 September 2026",
     excerpt: "A heartfelt tribute to a mother whose love, sacrifices, prayers, and guidance shaped her child’s life, expressing deep gratitude and love for everything she has done.",
-    content: [
-     "We often define family by blood, surnames, traditions, and the walls of a shared home. We are taught that family is our first home, our first school, and the people who will always stand beside us. But family is far more complicated than the simple picture we are given. It is where we first learn love, trust, fear, forgiveness, responsibility and sometimes even how to hide our pain.",
-      "Before we understand the world, our families become our first version of it. The words spoken to us as children can remain in our minds long after we have forgotten the moment they were said. A parent's encouragement can become confidence, while criticism, comparison, silence or impossible expectations can follow us into adulthood. In ways we rarely notice, our families shape the way we see ourselves and the way we learn to love others.",
-      "Yet family is not always the perfect sanctuary that stories make it seem. There are disagreements, generational differences, misunderstandings, and wounds that are never openly discussed. Sometimes the people closest to us are the ones we struggle most to understand. We may love our families deeply while still disagreeing with their beliefs, choices, or expectations. Acknowledging this does not make that love any less genuine.",
-      "Growing up means realizing that our family can influence us without completely defining us. We inherit traditions, beliefs, habits, and fears, but we also have the ability to examine them. We can ask ourselves: Do I truly believe this, or was I simply taught to? We can choose which traditions deserve to continue and which patterns should end with us. Breaking a harmful cycle does not mean rejecting those who came before us; sometimes it means understanding them well enough to choose something healthier.",
-      "Growing up also means seeing our parents not only as parents, but as human beings with their own fears, regrets, dreams, and unfinished stories. Perhaps maturity is not about discovering that our parents were always right or always wrong, but about finally seeing them as imperfect people who were also learning how to live.",
-      "And sometimes, family is not limited to the people we are born into. There are friends who become siblings, mentors who become guides, and people who enter our lives unexpectedly and make us feel understood. Blood may connect people, but love, trust, and acceptance are what make a place feel like home.",
-      "Perhaps family is not about perfection, but connection. It is about the people who leave pieces of themselves within us- their lessons, stories, habits, and even their mistakes. Some of those pieces we carry proudly. Others we learn to put down.",
-      "Because growing up is not simply becoming our family. It is discovering what we want to become because of them and, sometimes, despite them.",
-      "In the end, family is not merely where we come from. It is part of the story we inherit, the story we question, and ultimately, the story we choose what to do with."
-    ]
+content: [
+  "I am her reflection",
+  "She means alot to me",
+  "My attitudes were built by her",
+  "She holds all my secrets,",
+  "My pain and My sorrows.",
+  "She motivates me when I fail.",
+  "She molded me, with all her breath.",
+  "She shape me in a way,",
+  "Where I could stand on my feet.",
+  "She carried all my burden and",
+  "sorrows",
+  "To see me happy,",
+  "Without agony on my face.",
+  "She kneel before God daily,",
+  "For my health and strength",
+  "For my wisdom and knowledge,",
+  "And for my sins to be forgiven",
+  "She rolled her tears,",
+  "For me, and took all the burden",
+  "and sin",
+  "She kneel and ask for forgiveness,",
+  "As if it was her, who did it.",
+  "And I'm thankful to God",
+  "For letting me in,",
+  "In a place where love is being shown secretly.",
+  "Though I couldn't thank her enough",
+  "I thank God. And Pray for her.."
+]
   }
   ,
 
