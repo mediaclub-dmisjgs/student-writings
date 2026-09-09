@@ -5,7 +5,7 @@ const articles = [
     title: "Built By Her Breath",
     category: "Poetry",
     image: "",
-    image: "images/pages-that-know.png",
+    image: "images/built-by-her-breath.jpg",
     author: "Thejongolu Tetseo",
     grade: "Grade 12 Commerce",
     date: "9 September 2026",
