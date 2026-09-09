@@ -1,6 +1,57 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+    id: "pages-that-know",
+    title: "The Pages That Know",
+    category: "Story",
+    image: "",
+    image: "images/pages-that-know.png",
+    author: "Aster S Yesca",
+    grade: "Grade 4",
+    date: "9 September 2026",
+    excerpt: "Three friends sneak into their school late at night, hoping to find an exam paper, but instead discover a mysterious underground library filled with books bearing their names. Inside, they find their entire lives written down—including events that are happening that very moment. Years later, they return to the library and uncover the truth: the books were never predicting their futures. They were recording the stories they themselves were writing through every choice they made.",
+    content: [
+    "It was nearly midnight when three friends, Kabir, Aarav, and Rohan, quietly entered their school through a side door. They were not supposed to be there. The next morning was their most important exam of the year, and none of them felt prepared. They had come up with a foolish plan to sneak into the staff room and steal a copy of the question paper.",
+
+"The school was completely dark. Their footsteps echoed through the empty corridors as they moved carefully toward the staff room. Suddenly, Kabir stopped. “Do you see that?” At the end of the corridor, a strange blue light was flickering. Aarav frowned. “That wasn't there before.” The three friends stared at it. They knew the school well, but they had never seen a light in that part of the building. “Let's check it out,” Rohan whispered.",
+
+"They followed the light. It led them to a narrow corridor hidden behind an old cupboard. At the end was a small wooden door they had never noticed before. Aarav slowly opened it. Behind the door was a staircase leading underground. “Should we really go down there?” Kabir asked. Nobody answered. They descended.",
+
+"At the bottom, they found another door. When Aarav pushed it open, all three of them stood frozen. A huge library stretched before them. There were hundreds of books arranged on tall shelves. The room seemed much larger than the school itself. A faint blue light filled the room, even though there were no lamps or windows.",
+
+"Then Rohan noticed something strange. Every book had a student's name written on its cover. He walked toward a shelf. “Aarav.” Aarav turned. His own name was written on a book. A few books away were the names of Kabir and Rohan. “This can't be real,” Kabir whispered.",
+
+"Aarav picked up his book and opened it. The first pages described his childhood. It mentioned his first day at school, his friends, his family, and even small things he had never told anyone. He turned another page, then another. The book seemed to know everything about him. Kabir and Rohan were having the same experience with their books.",
+
+"Suddenly, Rohan gasped. “Look at this.” They gathered around him. The book was describing what they had done that night. It described them entering the school. It described them searching for the examination papers. It described the flickering blue light. It described the hidden passage. And it described the library. Aarav's hands began to shake. “How could it know this?” Nobody had an answer.",
+
+"Then Kabir noticed something even stranger. The writing on the page was changing. A new sentence appeared: The three friends are standing together in the hidden library. They stared at the words. Another sentence appeared: They are frightened. Rohan dropped the book. “Let's go.”",
+
+"They hurried toward the door, but Aarav suddenly noticed the final page. It was blank. He turned it toward the others. “Look.” For a moment, nothing happened. Then, slowly, black letters began to appear on the empty page: They have discovered the hidden library. The boys stared at each other. Another line appeared: They are wondering who is writing their story. The room became completely silent. Then the final sentence appeared: They are reading this sentence right now.",
+
+"The three friends ran. They never spoke about the library again. Years passed. The three friends grew older and went their separate ways. They finished school, started careers, made new friends, and built their own lives. Yet none of them ever forgot that night.",
+
+"One evening, many years later, they returned to their old school. The building had been abandoned for years. They found the hidden corridor. They found the staircase. And eventually, they found the library. Everything was exactly as they remembered it.",
+
+"Their books were still there. Aarav opened his. This time, the book contained everything that had happened to him since that mysterious night. Kabir opened his book. Rohan did the same. Their entire lives were written inside.",
+
+"They turned to the final pages. This time, they were not blank. They were filled with handwriting. Aarav recognized it immediately. It was his own handwriting. He looked at Kabir and Rohan. “Do you understand?” Kabir slowly nodded. The books had never been predicting their future. They had been recording their lives.",
+
+"Every decision they had made, every mistake, every friendship, every success and every failure had become part of their stories. But there was something even more frightening. They realized that the handwriting throughout the books was theirs. Somehow, they had been writing their own stories all along.",
+
+"Rohan looked at the empty space at the bottom of the final page. A pen lay beside the book. He picked it up. “What happens if we write something?” Aarav thought for a moment. Then he smiled. “There's only one way to find out.”",
+
+"The three friends leaned over the book. Together, they wrote: We choose what happens next. For the first time, the words on the page did not change. The library remained silent. The three friends looked at one another.",
+
+"Perhaps their lives had always been stories. Perhaps every choice they had ever made had already been part of a book. Or perhaps, for the first time, they had truly taken control of the story.",
+
+"They closed the books and walked out of the library together. Behind them, on a distant shelf, a new blank book slowly opened. On its first page, three words appeared:",
+
+"The next chapter."
+    ]
+  }
+  ,
+  {
     id: "more-than-blood",
     title: "More Than Blood",
     category: "Opinion",
