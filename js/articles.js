@@ -1,6 +1,27 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+  id: "the-kind-sisters",
+  title: "The Kind Sisters",
+  category: "Story",
+  image: "images/built-by-her-breath.jpg",
+  author: "Ngvusinle",
+  grade: "Grade 5",
+  date: "9 September 2026",
+  excerpt: "Two sisters lost in a forest discover that kindness can guide them home.",
+  content: [
+  "Once upon a time, there were two sisters named Riya and Dia. They were kind-hearted and helpful to each other. They always lent a helping hand to one another. They shared everything they had, including their invaluable belongings. Riya was the elder sister, while Dia was the younger one.",
+  " ",
+  "One day, they got lost in the forest. They were freezing in the cold and had only a piece of bread to eat. Then, an old man approached them and told them that he had not eaten anything for three days. Riya felt pity for the old man, so she gave him their piece of bread.",
+  " ",
+  "Then Dia asked the old man, \"Do you know the way out of the forest?\" The old man replied, \"No, but I know a place where you can rest.\" He showed them a cave.",
+  " ",
+  "Riya and Dia thanked the old man and rested there for some time. After a while, Riya found a compass that could help them find their way out of the forest. They followed the direction shown by the compass and finally reached the edge of the forest. They went home happily.",
+  " ",
+  "MORAL: Always be kind to others, because kindness will always come back to you."
+]
+},
+  {
   id: "built-by-her-breath",
   title: "Built By Her Breath",
   category: "Poetry",
