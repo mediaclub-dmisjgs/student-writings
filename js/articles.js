@@ -52,7 +52,7 @@ const articles = [
   id: "must-i",
   title: "Must I?",
   category: "Poetry",
-  image: "images/must-i.png",
+  image: "images/neiya-butterfly.jpeg",
   author: "Neiya Kin",
   grade: "Grade XII Science",
   date: "10 September 2026",
