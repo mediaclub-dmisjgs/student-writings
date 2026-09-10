@@ -14,7 +14,7 @@ const articles = [
     "To wear every flaw like a quite disgrace.",
     "To turn every 'could' into something I must,",
     "So much so That I've forgotten what it feels to simply be myself.",
-    ".."
+    "..",
     "Must I achieve to be worthy of Love?",
     "Must I soar just to prove I'm enough?",
     "I too am Human, tired and scared.",
