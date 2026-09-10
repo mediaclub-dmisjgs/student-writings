@@ -247,7 +247,7 @@ const articles = [
   {
     id: "beyond-religion-thejanguno",
     title: "Beyond Religion: The Courage to Question While Believing",
-    category: "Article",
+    category: "Opinion",
     image: "",
     image: "images/thejanguno.jpg",
     author: "Thejanguno Peseyie",
