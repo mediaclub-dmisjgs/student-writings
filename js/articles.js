@@ -1,6 +1,31 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+  id: "echoes-from-surumi",
+  title: "Echoes from Surumi",
+  category: "Article",
+  image: "images/must-i.png",
+  author: "Keno Joshua Zhimomi",
+  grade: "Grade XI Arts",
+  date: "10 September 2026",
+  excerpt: "The living history of the Sumi Folk Dance – Imuno Pi Sujo Sujo",
+  content: [
+  "Whenever you think of the Sumi tribe, what comes first in your mind? The food, war cry, traditional attires or even war dances, isn’t it? Well, those are certainly a part of the core identity of the Sumi tribe. But have you ever heard of a folk dance where many people form a curved line, lean and interlock their arms or shoulders firmly to form a tight unyielding row? Yes, you heard that right! This form of folk dance is called Imuno pi sujo sujo, and whenever the dance is performed people observe how the dancers interlock with each other’s arms/shoulders, giving the traditional folk dance a nickname called ‘the caterpillar dance.’ This folk dance was created by the people of Surumi Village (my maternal grandma’s village) situated in Suruhuto Sub Division of Zunheboto District.",
+
+  "Let’s get started right away! The historical roots of Imuno pi sujo sujo are deeply engrained in the ancient structures of Surumi Village, long before traditions were written down in the books, the legacy of this dance was preserved through rich oral traditions and teachings and passed on to the next generation. According to historians, this dance was birthed within the Apu-Ki, the traditional institution and cultural center where the elders of the village passed down ancestral wisdom. It was during these gatherings that this unique dance was created. Elders specifically designed the performance as a creative and physical tool to teach young boys (who lived in Apu-ki) the value of tight-knit, respectful relationships and to engrain a lifelong commitment to Brotherhood.",
+
+  "The true essence of the dance lies in its name ‘Imuno pi’ translated to ‘Older Brother said’, while ‘sujo sujo’ means ‘supporting each other.’ This philosophy beautifully dictates the iconic caterpillar-like movement. By interlocking with each other’s arms tightly side-by-side in a rigid curved line, the dancers sway and undulate in a synchronized ripple that perfectly mimics a crawling caterpillar to symbolizes a community moving as one cohesive unit. What truly sets Imuno pi sujo sujo apart from other intense Naga dances is its easy accessibility. While most traditional dances are strictly reserved for agricultural festivals like Tuluni or Ahuna, this dance form could be performed anytime, whether for everyday social pastime or in festivals. The villagers of Surumi mostly performed it during ordinary gatherings to unwind, foster unity, and casually reinforce brotherly bonds, making it a living, breathing part of daily village life rather than just a seasonal spectacle.",
+
+  "Apart from the signature caterpillar mechanics that happen near the end of the dance, the significance of this dance is to incorporate nuanced, rhythmic footwork and low grounded balancing postures. The dancers must and always lean back and forth with deliberate strength, relying completely on the physical counter-resistance of the team members standing beside them to maintain the line’s perfect equilibrium. This display is further enhanced by the striking traditional attires of the Sumi tribe. The performers wear the iconic red and black thread woven stripped shawls (Apu-Asu qhumu) paired with ceremonial waistbands and distinct headgear, transforming the performance into a visual tapestry of Naga heritage.",
+
+  "In a contemporary context, Imuno pi sujo sujo has evolved beautifully beyond its regional origins as a simple pastime created by the villagers of Surumi. Now this dance has expanded across the wider Sumi Naga Tribe, securing a proud and permanent place on the big stage at major state-wide cultural summits and post-harvest festivals like Ahuna. Once a localized lesson taught in village gatherings, it is now celebrated by the entire tribe as a premier symbol of ancestral unity and artistic pride.",
+
+  "Before I conclude, I just want to say that this unique and historical dance should be preserved and be taught to the next generation so that they carry on the legacy of this dance. To let Imuno pi sujo sujo fade into history would entail losing a vital piece of our rich cultural heritage passed down from generations. This dance is the living heartbeat of Surumi, my maternal grandmother’s village and a beautiful tether to my maternal ancestors.",
+
+  "We simply cannot allow any pressures of the modern world to silence these ancestral rhythms. My greatest hope is that this dance does not only remain confined to the past, but rather it should inspire youths across all tribes of Nagaland and beyond. Its core message - that we are stronger, safer, and whole only when we interlock arms and moves as one cohesive unit - is a Universal truth. By keeping this beautiful dance alive, we honor our roots while showing a divided world the absolute power of standing side-by-side."
+]
+},
+  {
   id: "must-i",
   title: "Must I?",
   category: "Poetry",
