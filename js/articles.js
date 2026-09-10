@@ -4,7 +4,7 @@ const articles = [
   id: "echoes-from-surumi",
   title: "Echoes from Surumi",
   category: "Article",
-  image: "images/must-i.png",
+  image: "images/surumi.png",
   author: "Keno Joshua Zhimomi",
   grade: "Grade XI Arts",
   date: "10 September 2026",
