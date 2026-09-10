@@ -3,7 +3,7 @@ const articles = [
   {
   id: "must-i",
   title: "Must I?",
-  category: "Poem",
+  category: "Poetry",
   image: "images/must-i.png",
   author: "Neiya Kin",
   grade: "Grade XII Science",
