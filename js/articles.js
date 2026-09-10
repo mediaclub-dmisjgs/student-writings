@@ -1,6 +1,27 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+  id: "must-i",
+  title: "Must I?",
+  category: "Poem",
+  image: "images/t-l-g.png",
+  author: "Neiya Kin",
+  grade: "Grade XII Science",
+  date: "10 September 2026",
+  excerpt: "A reflection on the quiet burden of growing up with expectations weighing heavily upon one’s shoulders... The fear of failing, falling short, the pressure to succeed, and the feeling that love must somehow be earned. At its heart lies a simple yet poignant question: must I achieve something before I can be worthy of love, or am I enough simply as I am??? ",
+  content: [
+  "I've learnt to face the silence after failure,",
+  "To wear every flaw like a quite disgrace.",
+    "To turn every 'could' into something I must,",
+"So much so That I've forgotten what it feels to simply be myself.",
+".."
+"Must I achieve to be worthy of Love?",
+"Must I soar just to prove I'm enough?",
+"I too am Human, tired and scared.",
+"I deserve love, even when I'm not enough. ~"
+]
+},
+  {
   id: "the-little-girl-who-chased-her-dream",
   title: "The Little Girl Who Always Chased Her Dream To Be a Singer or a Dancer",
   category: "Story",
