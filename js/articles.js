@@ -1,6 +1,29 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+  id: "the-day-everyone-followed-their-phones",
+  title: "The Day Everyone Followed Their Phones",
+  category: "Story",
+  image: "",
+  author: "Liyana Pradhan",
+  grade: "Grade VI",
+  date: "10 September 2026",
+  excerpt: "A short imaginative story about a world where people blindly follow their phones and learn to use technology wisely.",
+  content: [
+  "Imagine walking up one morning and seeing a strange message on your mobile phone: \"FOLLOW ME.\" At first, everyone thought it was a joke. But soon, people started following whatever their phones told them to do.",
+
+  "Children stopped listening to their teachers and kept looking at their screens. Parents forgot to talk to their families. People even walked on the roads while staring at their phones. The whole city looked like a crowd of robots following glowing screens.",
+
+  "Then a young girl named Bella switched off her phone. She looked around and asked, \"Why are we following our phones when we are the ones who created them?\"",
+
+  "Everyone became silent. They suddenly realised how much control they had given to technology. They decided to use their phones wisely instead of allowing phones to control their lives.",
+
+  "This imaginary situation gives us a lesson about today's generation. Mobile phones are useful, but too much dependence on them can take us away from family, friends, nature and real life.",
+
+  "Lesson: Technology should make our lives better, not control our lives. We should control our phones instead of letting our phones control us."
+]
+},
+  {
   id: "echoes-from-surumi",
   title: "Echoes from Surumi",
   category: "Article",
