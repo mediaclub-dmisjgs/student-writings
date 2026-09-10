@@ -4,7 +4,7 @@ const articles = [
   id: "the-day-everyone-followed-their-phones",
   title: "The Day Everyone Followed Their Phones",
   category: "Story",
-  image: "",
+  image: "images/liyana-phones.png",
   author: "Liyana Pradhan",
   grade: "Grade VI",
   date: "10 September 2026",
