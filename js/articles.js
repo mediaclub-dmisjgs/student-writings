@@ -11,7 +11,7 @@ const articles = [
   excerpt: "",
   content: [
 "Somewhere between being told",
-"/“these are the best years of your life/”",
+"\“these are the best years of your life\”",
 "and being reminded to prepare for the future,",
 "students are left wondering",
 "when we're actually supposed to live them.",
