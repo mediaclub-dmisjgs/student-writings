@@ -8,7 +8,7 @@ const articles = [
   author: "Eneiu K Mero",
   grade: "Grade IX",
   date: "11 September 2026",
-  excerpt: "",
+  excerpt: "A reflection on growing up, changing dreams, and learning to cherish the ordinary moments before they become memories.",
   content: [
 "Somewhere between being told",
 "\“these are the best years of your life\”",
