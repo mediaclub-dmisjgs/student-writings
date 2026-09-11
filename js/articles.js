@@ -4,7 +4,7 @@ const articles = [
   id: "between-deadlines",
   title: "Between Deadlines",
   category: "Poetry",
-  image: "images/liyana-phones.png",
+  image: "images/between-dateline.jpg",
   author: "Eneiu K Mero",
   grade: "Grade IX",
   date: "11 September 2026",
