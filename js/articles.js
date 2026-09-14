@@ -75,7 +75,7 @@ const articles = [
   date: "14 September 2026",
   excerpt: "Sometimes, when life gives us no answers, we rush to find our own way. But perhaps God is already preparing the right one—at the right time, in the right way. All we need is patience, faith, and the courage to let Him guide us.",
   content: [
-"When your in problems and cannot",
+"When you're in problems and cannot",
 "find any clue;",
 "Call out to God, and God will",
 "start to cook.", 
@@ -93,7 +93,7 @@ const articles = [
 "you get clumsy and drop the shelve.",
 "..",
 "Instead pushing God aside,",
-"Ask him to lend u some guide.",
+"Ask him to lend you some guide.",
 "..",
 "Be patient, be calm, he'll give u what you need,",
 "And later the dish God serves, will be delicious, indeed."
