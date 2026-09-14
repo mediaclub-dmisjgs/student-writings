@@ -81,7 +81,7 @@ const articles = [
 "start to cook.", 
 "..",
 "He'll take some time to cook,",
-"Cuz his looking through a recipe book.",
+"Cuz He's looking through a recipe book.",
 "..",
 "A perfect spice to solve your problem.",
 "A perfect timing,",
