@@ -5,7 +5,7 @@ const articles = [
   title: "Three Friends In A New School",
   category: "Story",
   image: "images/three-friends.webp",
-  author: "Rebecca Humtsoe",
+  author: "Rebecca D Humtsoe",
   grade: "Grade VI",
   date: "15 September 2026",
   excerpt: "This is a story about three friends who went to a new school and experienced epic, crazy and mysterious things that welcomed them on the first day of school.",
