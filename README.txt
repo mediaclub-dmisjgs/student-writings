@@ -37,8 +37,6 @@ Copy an object inside the `articles` array in js/articles.js and change:
 
 IMPORTANT
 ---------
-The supplied Media Club logo is used throughout the design, with its red/white/charcoal palette carried into the UI.
-
 This is a front-end-only website. The article list is currently stored in
 JavaScript, so adding/editing articles requires changing articles.js.
 
@@ -76,5 +74,3 @@ Example:
   ...
 }
 
-You can use photographs, student artwork, illustrations or a designed
-cover image for each submission.
