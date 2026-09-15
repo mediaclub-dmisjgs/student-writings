@@ -1,5 +1,25 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
+  {
+  id: "why-are-we-the-last-humans",
+  title: "Why Are We the Last Humans?",
+  category: "Article",
+  image: "images/last-humans.jpg",
+  author: "Nring Kilungsiliu Zeliang",
+  grade: "Grade XII Science",
+  date: "15 September 2026",
+  excerpt: "An exploration of human evolution that looks beyond textbooks and asks why Homo sapiens became the only surviving human species—and whether we are really the last.",
+  
+content: [
+  "What if I told you that humans were not always the only humans on Earth? It sounds strange at first, but for thousands of years, our ancestors shared the planet with other human species. There were Neanderthals, Denisovans and other ancient relatives that we are still learning about today. They made tools, used fire, hunted, lived in groups and adapted to their surroundings. In other words, they weren't just some primitive creatures from a biology textbook. They were humans too—just different from us.",
+"The part that really caught my attention was what happened to them. At some point, these other human groups disappeared, while Homo sapiens continued. We don't have one definite answer for why. It could have involved changes in climate, competition for resources, disease, differences in adaptability, or even several things happening together. And here's something even more interesting: they didn't completely disappear from our story. Scientists have found that many people today, particularly those with ancestry outside Africa, carry a small amount of Neanderthal DNA. So even though Neanderthals are gone as a population, a tiny piece of their history is still present in some of us.",
+"I think this is where evolution becomes much more interesting than the way we usually see it in school. We tend to picture evolution as a straight line, as if humans were simply the final and most advanced step. But it's actually much more complicated. Evolution is more like a huge family tree, with different branches developing in different directions. Some survive, some change and some eventually disappear. We're just one of those branches. As a science student, I find that strangely humbling. We survived, but that doesn't necessarily mean we were destined to.",
+"It also makes me wonder about the future. We call ourselves modern humans, but what if we're not the final version of humanity? We have no idea what humans might look like thousands or millions of years from now. Maybe our descendants will be very similar to us. Maybe they'll be completely different. Or maybe, one day, someone will find our remains and study us the way we study Neanderthals now. They might look at our cities, technology and everyday objects and try to figure out what kind of people we were.",
+"That's probably what I like most about evolution. It doesn't just tell us where we came from; it makes me wonder where we're going. We often think of ourselves as the centre of the story because we're the ones telling it. But we're actually only one small part of a much bigger history."
+"So, were we really the last humans?",
+"Or are we just the latest?"
+]
+},
 {
   id: "three-friends-new-school",
   title: "Three Friends In A New School",
