@@ -4,7 +4,7 @@ const articles = [
   id: "three-friends-new-school",
   title: "Three Friends In A New School",
   category: "Story",
-  image: "images/morals-of-heart.jpeg",
+  image: "images/three-friends.webp",
   author: "Rebecca Humtsoe",
   grade: "Grade VI",
   date: "15 September 2026",
