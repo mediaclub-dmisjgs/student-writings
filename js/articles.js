@@ -14,7 +14,7 @@ const articles = [
     "The school looked new, with walls freshly painted and desks clean and shiny. The three headed to their class and before anything could happen, they found out that THE DESKS COULD TALK.",
     "Milo sat down on a random seat. Well, that was a mistake, because the next second,the bench said, \" Welcome, Milo. This will be your permanent seat for English class.\"",
     "It got worse. The next second, Billy James, a new student , walked in. I don't know how to describe him, but Milo was going to regret his choice of just slamming his bag down on a bench that could talk.",
-    "\"Well, I hope nothing strange happens to us," said Margaret to Jason. " Sure I hope we don't have to rethink our choice,\" replied Jason.",
+    "\"Well, I hope nothing strange happens to us,\" said Margaret to Jason. \" Sure I hope we don't have to rethink our choice,\" replied Jason.",
     "They all sat down and the teacher walked in and said \"Good morning class. As today is the first class , let's all introduce ourselves\". Introducing herself first as Miss Caroline who will teach their English subject , everyone took turns introducing themselves and sat down.",
     "The teacher said,\"Okay, very beautiful names\" and started the class , everyone learned and had fun. Then the bell rang and they headed to the next class.",
     "\"Bro Billy James was annoying me so much .It almost felt like he was eating my brain,\" said Milo. \" Chill out , Just don't make the same mistake .\" suggested Margaret.",
