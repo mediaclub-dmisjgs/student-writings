@@ -9,29 +9,51 @@ const articles = [
   grade: "Grade VI",
   date: "15 September 2026",
   excerpt: "This is a story about three friends who went to a new school and experienced epic, crazy and mysterious things that welcomed them on the first day of school.",
-  content: [
-"Margaret, Milo and Jason are three friends who got admitted to a new school- ' The Skyline Academy'.",
-    "The school looked new, with walls freshly painted and desks clean and shiny. The three headed to their class and before anything could happen, they found out that THE DESKS COULD TALK.",
-    "Milo sat down on a random seat. Well, that was a mistake, because the next second,the bench said, \" Welcome, Milo. This will be your permanent seat for English class.\"",
-    "It got worse. The next second, Billy James, a new student , walked in. I don't know how to describe him, but Milo was going to regret his choice of just slamming his bag down on a bench that could talk.",
-    "\"Well, I hope nothing strange happens to us,\" said Margaret to Jason. \" Sure I hope we don't have to rethink our choice,\" replied Jason.",
-    "They all sat down and the teacher walked in and said \"Good morning class. As today is the first class , let's all introduce ourselves\". Introducing herself first as Miss Caroline who will teach their English subject , everyone took turns introducing themselves and sat down.",
-    "The teacher said,\"Okay, very beautiful names\" and started the class , everyone learned and had fun. Then the bell rang and they headed to the next class.",
-    "\"Bro Billy James was annoying me so much .It almost felt like he was eating my brain,\" said Milo. \" Chill out , Just don't make the same mistake .\" suggested Margaret.",
-    "When they reached the next class, the teacher wasn't even there. \"It says on the school map this is the class,\" Milo says. Jason replied , \"Uhm, Milo, you're holding it upside down.\" Milo can't read maps anyway.",
-    "\"Hey, we're getting late, let's go. I heard the Math teacher is strict,\" said Jason",
-    "They rushed to the right class and there was the Math teacher, Sir Henry. The moment he looked at their face, the three knew what was coming.",
-    "\"Where have you three been?\" Sir Henry asked in a deep, angry tone. \"Sir, we're new and we went to the wrong class\", replied Jason.",
-    "\"You get excused for today,\" said Sir Henry. They took their seats and then -",
-    "\"BOOM!\" -the board was filled with equations. Margaret fell asleep , Milo blanked out and Jason pretended listening but actually wishing for math class to end . Minutes later the bell rang. They took some more classes and finally it was lunch time.",
-    "Margaret spotted her aunt, who runs one of the stalls in the canteen. They headed towards the stall and had enough of their choices, and then decided for a quick school tour.",
-    "Walking down the hallway, they saw an empty room which looked like a storage room.They went inside as it wasn't locked.There were cobwebs, boxes everywhere, and some old belongings . Margaret said \"Look , I got a piece of chalk. Lets draw on this old board.\" Milo drew a music cassette, Jason drew a cool skateboard and Margaret drew a beautiful basket with flowers in it....then, the next second ,they saw sparkles and - CLICK ! - their drawings became real.",
-    "\"WOAH\" shouted Margaret in shock.\"How did this happen?\" Jason exclaimed. \"I don't know , but maybe this is why this black board is kept in here\" said Milo.",
-    "\"What an epic and mysterious school this is! I can say there are more crazy things in here\", said Margaret. And she was exactly right , the blackboard talked and a blazer lying on a dusty box could let them hear past conversations of old students who came down the hallway.",
-    "Leaving the mysterious room behind, they headed to their last class . while Margaret was trying to open her locker, it didn't budge.",
-    "\"Can someone help?\" she asked. Milo and Jason tried with all their strength but it didn't budge even a little. Just then ,a student saw what was going on and suggested\", Stand infront of the locker to scan your face, only then it will unlock.\" Margaret , with her mouth dropped open in disbelief, said ,\"All our strength wasted just to hear this?\" They all laughed.",
-    "Finally, the last class ended , and they walked to the school gate to get into their buses.",
-    "\"It was an epic ,crazy and mysterious day today\", Milo said. \"Indeed\", replied Jason and Margaret. They did their friendship handshake and waved goodbye to each other for the first day in a new school."
+  
+content: [
+    "Margaret, Milo, and Jason are three friends who have been admitted to a new school called 'The Skyline Academy.'",
+
+    "The school looked new, with freshly painted walls and clean, shiny desks. The three headed to their classroom, and before anything else could happen, they discovered that THE DESKS COULD TALK.",
+
+    "Milo sat down on a random seat. Well, that was a mistake, because the very next second, the bench said, \"Welcome, Milo. This will be your permanent seat for English class.\"",
+
+    "Things got even worse when Billy James, another new student, walked in. I don't know how to describe him, but Milo was definitely going to regret his decision to slam his bag down on a bench that could talk.",
+
+    "\"Well, I hope nothing strange happens to us,\" said Margaret to Jason. \"Sure, I hope we don't have to rethink our choice,\" replied Jason.",
+
+    "They all sat down, and the teacher walked in and said, \"Good morning, class. Since this is our first class, let's all introduce ourselves.\" She introduced herself as Miss Caroline, their English teacher. Everyone took turns introducing themselves and then sat down.",
+
+    "The teacher said, \"Okay, very beautiful names!\" and started the class. Everyone learned and had fun. Then the bell rang, and they headed to their next class.",
+
+    "\"Bro, Billy James was annoying me so much. It almost felt like he was eating my brain,\" said Milo. \"Chill out. Just don't make the same mistake again,\" suggested Margaret.",
+
+    "When they reached the next classroom, the teacher wasn't even there. \"It says on the school map that this is the classroom,\" said Milo. Jason replied, \"Uhm, Milo, you're holding it upside down.\" Milo couldn't read maps anyway.",
+
+    "\"Hey, we're getting late. Let's go. I heard the math teacher is strict,\" said Jason.",
+
+    "They rushed to the right classroom, where the math teacher, Sir Henry, was waiting. The moment he looked at their faces, the three knew what was coming.",
+
+    "\"Where have you three been?\" Sir Henry asked in a deep, angry tone. \"Sir, we're new, and we went to the wrong classroom,\" replied Jason.",
+
+    "\"You're excused for today,\" said Sir Henry. They took their seats, and then—",
+
+    "\"BOOM!\" The board was suddenly filled with equations. Margaret fell asleep, Milo blanked out, and Jason pretended to listen while actually wishing for the math class to end. Minutes later, the bell rang. They attended a few more classes, and finally, it was lunchtime.",
+
+    "Margaret spotted her aunt, who ran one of the stalls in the canteen. They headed towards the stall, looked at the available food, and made their choices. After eating, they decided to take a quick tour of the school.",
+
+    "Walking down the hallway, they noticed an empty room that looked like a storage room. They went inside because it wasn't locked. There were cobwebs, boxes everywhere, and some old belongings. Margaret said, \"Look, I found a piece of chalk. Let's draw on this old board.\" Milo drew a music cassette, Jason drew a cool skateboard, and Margaret drew a beautiful basket of flowers. Then, the next second, they saw sparkles, and—CLICK!—their drawings became real.",
+
+    "\"WOAH!\" shouted Margaret in shock. \"How did this happen?\" Jason exclaimed. \"I don't know, but maybe this is why the blackboard is kept in here,\" said Milo.",
+
+    "\"What an epic and mysterious school this is! I can tell there are more crazy things around here,\" said Margaret. And she was exactly right. The blackboard could talk, and a blazer lying on a dusty box could let them hear past conversations of students who had once walked down the hallway.",
+
+    "Leaving the mysterious room behind, they headed to their last class. While Margaret was trying to open her locker, it wouldn't budge.",
+
+    "\"Can someone help?\" she asked. Milo and Jason tried with all their strength, but it didn't budge even a little. Just then, a student noticed what was happening and suggested, \"Stand in front of the locker so it can scan your face. Only then will it unlock.\" Margaret, with her mouth hanging open in disbelief, said, \"All that effort wasted just to hear this?\" They all laughed.",
+
+    "Finally, the last class ended, and they walked to the school gate to board their buses.",
+
+    "\"It was an epic, crazy, and mysterious day today,\" said Milo. \"Indeed,\" replied Jason and Margaret. They performed their friendship handshake and waved goodbye to each other after their first day at their new school."
 ]
 },
   
