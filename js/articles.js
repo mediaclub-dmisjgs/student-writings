@@ -1,5 +1,40 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
+{
+  id: "three-friends-new-school",
+  title: "Three Friends In A New School",
+  category: "Story",
+  image: "images/morals-of-heart.jpeg",
+  author: "Rebecca Humtsoe",
+  grade: "Grade VI",
+  date: "15 September 2026",
+  excerpt: "This is a story about three friends who went to a new school and experienced epic, crazy and mysterious things that welcomed them on the first day of school.",
+  content: [
+"Margaret, Milo and Jason are three friends who got admitted to a new school- ' The Skyline Academy'.",
+    "The school looked new, with walls freshly painted and desks clean and shiny. The three headed to their class and before anything could happen, they found out that THE DESKS COULD TALK.",
+    "Milo sat down on a random seat. Well, that was a mistake, because the next second,the bench said, \" Welcome, Milo. This will be your permanent seat for English class.\"",
+    "It got worse. The next second, Billy James, a new student , walked in. I don't know how to describe him, but Milo was going to regret his choice of just slamming his bag down on a bench that could talk.",
+    "\"Well, I hope nothing strange happens to us," said Margaret to Jason. " Sure I hope we don't have to rethink our choice,\" replied Jason.",
+    "They all sat down and the teacher walked in and said \"Good morning class. As today is the first class , let's all introduce ourselves\". Introducing herself first as Miss Caroline who will teach their English subject , everyone took turns introducing themselves and sat down.",
+    "The teacher said,\"Okay, very beautiful names\" and started the class , everyone learned and had fun. Then the bell rang and they headed to the next class.",
+    "\"Bro Billy James was annoying me so much .It almost felt like he was eating my brain,\" said Milo. \" Chill out , Just don't make the same mistake .\" suggested Margaret.",
+    "When they reached the next class, the teacher wasn't even there. \"It says on the school map this is the class,\" Milo says. Jason replied , \"Uhm, Milo, you're holding it upside down.\" Milo can't read maps anyway.",
+    "\"Hey, we're getting late, let's go. I heard the Math teacher is strict,\" said Jason",
+    "They rushed to the right class and there was the Math teacher, Sir Henry. The moment he looked at their face, the three knew what was coming.",
+    "\"Where have you three been?\" Sir Henry asked in a deep, angry tone. \"Sir, we're new and we went to the wrong class\", replied Jason.",
+    "\"You get excused for today,\" said Sir Henry. They took their seats and then -",
+    "\"BOOM!\" -the board was filled with equations. Margaret fell asleep , Milo blanked out and Jason pretended listening but actually wishing for math class to end . Minutes later the bell rang. They took some more classes and finally it was lunch time.",
+    "Margaret spotted her aunt, who runs one of the stalls in the canteen. They headed towards the stall and had enough of their choices, and then decided for a quick school tour.",
+    "Walking down the hallway, they saw an empty room which looked like a storage room.They went inside as it wasn't locked.There were cobwebs, boxes everywhere, and some old belongings . Margaret said \"Look , I got a piece of chalk. Lets draw on this old board.\" Milo drew a music cassette, Jason drew a cool skateboard and Margaret drew a beautiful basket with flowers in it....then, the next second ,they saw sparkles and - CLICK ! - their drawings became real.",
+    "\"WOAH\" shouted Margaret in shock.\"How did this happen?\" Jason exclaimed. \"I don't know , but maybe this is why this black board is kept in here\" said Milo.",
+    "\"What an epic and mysterious school this is! I can say there are more crazy things in here\", said Margaret. And she was exactly right , the blackboard talked and a blazer lying on a dusty box could let them hear past conversations of old students who came down the hallway.",
+    "Leaving the mysterious room behind, they headed to their last class . while Margaret was trying to open her locker, it didn't budge.",
+    "\"Can someone help?\" she asked. Milo and Jason tried with all their strength but it didn't budge even a little. Just then ,a student saw what was going on and suggested\", Stand infront of the locker to scan your face, only then it will unlock.\" Margaret , with her mouth dropped open in disbelief, said ,\"All our strength wasted just to hear this?\" They all laughed.",
+    "Finally, the last class ended , and they walked to the school gate to get into their buses.",
+    "\"It was an epic ,crazy and mysterious day today\", Milo said. \"Indeed\", replied Jason and Margaret. They did their friendship handshake and waved goodbye to each other for the first day in a new school."
+]
+},
+  
   {
   id: "morals-of-the-heart",
   title: "Morals of the Heart",
