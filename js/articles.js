@@ -1,6 +1,38 @@
 // Replace these sample entries with approved student submissions.
 const articles = [
   {
+  id: "words-within-a-cage",
+  title: "Words Within A Cage",
+  category: "Poetry",
+  image: "images/words-within-cage.jpg",
+  author: "Jezriel Chishi",
+  grade: "Grade XI Arts",
+  date: "16 September 2026",
+  excerpt: "“Words Within a Cage” explores discrimination faced by people, particularly those from Northeast India and from different regions and communities across the country, whose identities are often treated as different or foreign. It questions the contradiction between the nation's ideals of “unity in diversity” and the prejudice experienced by its own people, expressing a longing for acceptance, equality, and freedom.",
+  
+content: [
+"Neither the freedom shall we get,",
+"Nor the love shall we recieve.",
+"Your selfish desires,",
+"To keep one caged.",
+"As if swallowing plastic,",
+"For your own amusement.",
+"\"Unity in diversity.\" Where do these words they promise us truly live?",
+"Words you spout out like a proud peacock,",
+"Yet have no true intent nor actions.",
+"How cruel can you be to your own people?",
+"Thought the difference we have,",
+"Like a scarlet and hyacinth macaw.",
+"Our people welcome all who differ from us,",
+"With warm arms,",
+"Yet your people welcome us as vermin upon the street.",
+"Where even the blooming lotus,",
+"Withers before we can see the sunrise.",
+"When, oh when?",
+"Shall we ever at last fly?"
+]
+},
+  {
   id: "why-are-we-the-last-humans",
   title: "Why Are We the Last Humans?",
   category: "Article",
